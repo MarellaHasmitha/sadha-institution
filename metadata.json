@@ -1,0 +1,8 @@
+{
+  "name": "Sadha Institution - Yoga & Wellness",
+  "description": "A premium, sand-beige themed platform for Live Yoga programs and Professional Beautician courses, featuring admin-controlled registration and secure content delivery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
