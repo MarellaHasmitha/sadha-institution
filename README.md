@@ -4,7 +4,7 @@ A modern and responsive website for **Sadha Institution**, showcasing yoga sessi
 
 ## 🚀 Live Demo
 
-🔗 *Coming Soon (will be added after deployment)*
+🔗 https://sadha-institution.vercel.app/#/
 
 ## 💻 GitHub Repository
 
